@@ -5,10 +5,13 @@ nav{
 	
 	font-size: 32px;
 	font-family: 'Courier New', Courier, monospace;
-	padding: 10px;
 
 }
 
+a{
+	padding: 10px;
+}
+	
 a.nounderline{
 	text-decoration:none;
 }
@@ -31,7 +34,7 @@ p{
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-blend-mode:darken;
-]}
+}
 
 .text{
 	text-align: center;
